@@ -1,4 +1,4 @@
-## Ei! Eu sou o Douglas! 
+## Ei! I'm Douglas! 
  <div>
   <a href="https://github.com/douguizilla">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=douguizilla&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
